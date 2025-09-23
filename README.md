@@ -39,10 +39,13 @@ I'm a passionate **Full-Stack Developer** with a love for building clean, effici
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrikot&theme=radical" alt="GitHub streak" />
 </p>
 
-## 🔭 I’m currently working on
+## 🔭 I'm currently working on
 
--   [A cool project name](https://github.com/nrikot/my-project-name) - A brief description.
--   Leveling up my skills in **DevOps and Cloud Architecture**.
+-   [MyZoom App](https://github.com/nrikot/myzoom-app) - A Zoom's inspired app for team online meeting.
+-   Brush up my development skills in **Next.js, React.js, ShadCN and DevOps**.
+-   ⚡ Next.js – building scalable, production-ready web apps, ⚛️ React.js – crafting reusable and dynamic UI components, 🎨 ShadCN – leveraging modern, accessible UI components for speed and style, 🔧 DevOps – streamlining deployment, CI/CD, and cloud workflows
+
+I'm always learning, always building 🚀
 
 ## 📫 How to reach me
 
