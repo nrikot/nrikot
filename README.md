@@ -41,7 +41,7 @@ I'm a passionate **Full-Stack Developer** with a love for building clean, effici
 
 ## 🔭 I'm currently working on
 
--   [MyZoom App](https://github.com/nrikot/myzoom-app) - A Zoom's inspired app for team online meeting.
+-   [MyZoom App]([https://github.com/nrikot/myzoom-app](https://github.com/nrikot/myzoom-app)) - A Zoom's inspired app for team online meeting.
 -   Brush up my development skills in **Next.js, React.js, ShadCN and DevOps**.
     -   ⚡ Next.js – building scalable, production-ready web apps,
     -   ⚛️ React.js – crafting reusable and dynamic UI components,
