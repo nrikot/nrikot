@@ -41,6 +41,7 @@ I'm a passionate **Full-Stack Developer** with a love for building clean, effici
 
 ## 🔭 I'm currently working on
 
+-   [AMA AI Chat](https://github.com/nrikot/AMA_AI_Chat) - A sleek, full-stack AI chat application built with React, Express, TypeScript and Tailwind CSS. Features real-time conversations with AI models through Groq's lightning-fast inference API.
 -   [MyZoom App](https://github.com/nrikot/myzoom-app) - A Zoom's inspired app for team online meeting.
 -   A live demo can be found [Here](https://myzoom-app.vercel.app/)
 -   Brush up my development skills in **Next.js, React.js, ShadCN and DevOps**.
