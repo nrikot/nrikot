@@ -34,7 +34,7 @@ I enjoy turning complex problems into simple, beautiful solutions.
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## 🔭 I'm currently working on
-
+-   AI Engineering, LLMs, AI Agentic, AI MLOps and N8N
 -   [AMA AI Chat](https://github.com/nrikot/AMA_AI_Chat) - A sleek, full-stack AI chat application built with React, Express, TypeScript and Tailwind CSS. Features real-time conversations with AI models through Groq's lightning-fast inference API.
 -   [MyZoom App](https://github.com/nrikot/myzoom-app) - A Zoom's inspired app for team online meeting.
 -   A live demo can be found [Here](https://myzoom-app.vercel.app/)
