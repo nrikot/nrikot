@@ -32,13 +32,6 @@ I'm a passionate **Full-Stack Developer** with a love for building clean, effici
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nrikot&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrikot&theme=radical" alt="GitHub streak" />
-</p>
-
 ## 🔭 I'm currently working on
 
 -   [AMA AI Chat](https://github.com/nrikot/AMA_AI_Chat) - A sleek, full-stack AI chat application built with React, Express, TypeScript and Tailwind CSS. Features real-time conversations with AI models through Groq's lightning-fast inference API.
@@ -60,6 +53,13 @@ I'm always learning, always building 🚀
 
 ---
 
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nrikot&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrikot&theme=radical" alt="GitHub streak" />
+</p>
+
+## 🌞 Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nrikot&style=flat-square&color=blue" alt="Profile views" />
 </p>
