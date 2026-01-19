@@ -4,7 +4,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://nrikot.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digitallica@gmail.com)
 
-I'm a passionate **Full-Stack Developer** with a love for building clean, efficient, and user-focused web applications. I enjoy turning complex problems into simple, beautiful solutions.
+I'm a passionate **Full-Stack Developer** and **AI Engineer** with a love for building clean, efficient and user-focused web applications. 
+I enjoy turning complex problems into simple, beautiful solutions.
 
 ## 🛠️ Technologies & Tools
 
@@ -43,7 +44,7 @@ I'm a passionate **Full-Stack Developer** with a love for building clean, effici
     -   🎨 ShadCN – leveraging modern, accessible UI components for speed and style,
     -   🔧 DevOps – streamlining deployment, CI/CD, and cloud workflows
 
-I'm always learning, always building 🚀
+I'm always learning 📖, always building 🚀
 
 ## 📫 How to reach me
 
@@ -53,13 +54,16 @@ I'm always learning, always building 🚀
 
 ---
 
+## 🌞 Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nrikot&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nrikot&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrikot&theme=radical" alt="GitHub streak" />
 </p>
 
-## 🌞 Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nrikot&style=flat-square&color=blue" alt="Profile views" />
-</p>
