@@ -36,13 +36,13 @@ I enjoy turning complex problems into simple, beautiful solutions.
 ## 🔭 I'm currently working on
 -   AI Engineering, LLMs, AI Agentic, AI MLOps and N8N
 -   [AMA AI Chat](https://github.com/nrikot/AMA_AI_Chat) - A sleek, full-stack AI chat application built with React, Express, TypeScript and Tailwind CSS. Features real-time conversations with AI models through Groq's lightning-fast inference API.
--   [MyZoom App](https://github.com/nrikot/myzoom-app) - A Zoom's inspired app for team online meeting.
--   A live demo can be found [Here](https://myzoom-app.vercel.app/)
+-   [MyZoom App](https://github.com/nrikot/myzoom-app) - A Zoom's inspired app for team online meeting. A live demo can be found [Here](https://myzoom-app.vercel.app/)
 -   Brush up my development skills in **Next.js, React.js, ShadCN and DevOps**.
     -   ⚡ Next.js – building scalable, production-ready web apps,
     -   ⚛️ React.js – crafting reusable and dynamic UI components,
     -   🎨 ShadCN – leveraging modern, accessible UI components for speed and style,
     -   🔧 DevOps – streamlining deployment, CI/CD, and cloud workflows
+-   [Trust Bar](https://github.com/nrikot/trust-bar) - A WP plugin to display logos and links of companies that either are related, support or sponsor the website
 
 I'm always learning 📖, always building 🚀
 
