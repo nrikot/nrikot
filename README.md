@@ -35,7 +35,7 @@ I enjoy turning complex problems into simple, beautiful solutions.
 
 ## 🔭 I currently work on
 -   AI Engineering, LLMs, AI Agentic, AI MLOps and N8N
--   [DevStore](https://github.com/nrikot/DevStore) - A modern, full-stack e-commerce platform built with Next.js, TypeSctip, Prisma, Supabase, Clerk and Stripe, featuring authentication, payment processing and a beautiful UI which a live demo can be found [Here](https://dev-store-ecru-eight.vercel.app)
+-   [DevStore](https://github.com/nrikot/DevStore) - A modern, full-stack e-commerce platform built with Next.js, TypeScript, Prisma, Supabase, Clerk and Stripe, featuring authentication, payment processing and a beautiful UI which a live demo can be found [Here](https://dev-store-ecru-eight.vercel.app)
 -   [MyZoom App](https://github.com/nrikot/myzoom-app) - A Zoom's inspired app for team online meeting. A live demo can be found [Here](https://myzoom-app.vercel.app)
 -   [AMA AI Chat](https://github.com/nrikot/AMA_AI_Chat) - A sleek, full-stack AI chat application built with React, Express, TypeScript and Tailwind CSS. Features real-time conversations with AI models through Groq's lightning-fast inference API. A live demo can be found [Here](https://super.id/demo)
 -   Brush up my development skills in **Next.js, React.js, ShadCN and AI DevOps**.
