@@ -14,7 +14,7 @@ I enjoy turning complex problems into simple, beautiful solutions.
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ShadCN](https://shieldcn.dev/badge/ShadCN/UI-3b82f6.svg?variant=ghost)
+![ShadCN](https://shieldcn.dev/badge/ShadCN-57c1d9.svg?logo=shadcnui)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -22,14 +22,14 @@ I enjoy turning complex problems into simple, beautiful solutions.
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://shieldcn.dev/badge/Prisma-fff3cd.svg?variant=ghost)
+![Prisma](https://shieldcn.dev/badge/Prisma.svg?theme=green&logo=prisma)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://shieldcn.dev/badge/AWS.svg?variant=destructive)
+![AWS](https://shieldcn.dev/badge/AWS.svg?theme=orange&logo=ri%3AFaAws)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## 🔭 I currently work on
